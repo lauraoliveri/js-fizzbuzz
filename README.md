@@ -10,9 +10,8 @@ Come faccio a sapere se un numero è divisibile per un altro? Abbiamo visto qual
  <!-- 
  
  1 --- devo stampare in console i numeri da 1 a 100
- 2 --- per i multipli di 3 devo stampare fizz
- 3 --- per i multipli di 5 devo stampare buzz
- 4 --- per i multipli sia di 3 che di 5 devo stampare fizzbuzz 
-
+ 2 --- per i multipli sia di 3 che di 5 devo stampare fizzbuzz.
+ 3 --- per i multipli di 3 devo stampare fizz
+ 4 --- per i multipli di 5 devo stampare buzz
  -->
    
